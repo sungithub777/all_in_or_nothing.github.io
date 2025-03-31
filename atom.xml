@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>My Blog</title>
   
   
-  <link href="https://all-in-or-nothing-github-io.pages.dev/atom.xml" rel="self"/>
+  <link href="https://yourdomain.com/atom.xml" rel="self"/>
   
-  <link href="https://all-in-or-nothing-github-io.pages.dev/"/>
-  <updated>2025-03-31T05:16:35.806Z</updated>
-  <id>https://all-in-or-nothing-github-io.pages.dev/</id>
+  <link href="https://yourdomain.com/"/>
+  <updated>2025-03-31T12:15:26.120Z</updated>
+  <id>https://yourdomain.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Your Name</name>
     
   </author>
   
@@ -18,29 +18,23 @@
   
   <entry>
     <title>Blog規劃</title>
-    <link href="https://all-in-or-nothing-github-io.pages.dev/2025/03/31/BLOG%E8%A6%8F%E5%8A%83/"/>
-    <id>https://all-in-or-nothing-github-io.pages.dev/2025/03/31/BLOG%E8%A6%8F%E5%8A%83/</id>
+    <link href="https://yourdomain.com/2025/03/31/BLOG%E8%A6%8F%E5%8A%83/"/>
+    <id>https://yourdomain.com/2025/03/31/BLOG%E8%A6%8F%E5%8A%83/</id>
     <published>2025-03-31T01:39:16.000Z</published>
-    <updated>2025-03-31T05:16:35.806Z</updated>
+    <updated>2025-03-31T12:15:26.120Z</updated>
     
-    <content type="html"><![CDATA[</p>第一次架設網站<br>藉由這裡來練練自己的文筆與敘述<br>目前主要會分成六大類<br>農業&科技&生活&股市&虛擬貨幣&遊戲<br>希望在我老了還能透過這些紀錄想起一些回憶<br>新手上路請見諒]]></content>
+    <content type="html"><![CDATA[</p>第一次架設網站<br>藉由這裡來練練自己的文筆與敘述<br>目前主要會分成六大類<br><span id="more"></span>農業&科技&生活&股市&虛擬貨幣&遊戲<br>希望在我老了還能透過這些紀錄想起一些回憶<br>新手上路請見諒]]></content>
     
     
-      
-      
     <summary type="html">&lt;/p&gt;
 第一次架設網站&lt;br&gt;
 藉由這裡來練練自己的文筆與敘述&lt;br&gt;
-目前主要會分成六大類&lt;br&gt;
-農業&amp;科技&amp;生活&amp;股市&amp;虛擬貨幣&amp;遊戲&lt;br&gt;
-希望在我老了還能透過這些紀錄想起一些回憶&lt;br&gt;
-新手上路請見諒</summary>
-      
+目前主要會分成六大類&lt;br&gt;</summary>
     
     
     
     
-    <category term="部落格風格" scheme="https://all-in-or-nothing-github-io.pages.dev/tags/%E9%83%A8%E8%90%BD%E6%A0%BC%E9%A2%A8%E6%A0%BC/"/>
+    <category term="部落格風格" scheme="https://yourdomain.com/tags/%E9%83%A8%E8%90%BD%E6%A0%BC%E9%A2%A8%E6%A0%BC/"/>
     
   </entry>
   
