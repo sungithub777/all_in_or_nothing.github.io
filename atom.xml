@@ -6,11 +6,11 @@
   <link href="https://yourdomain.com/atom.xml" rel="self"/>
   
   <link href="https://yourdomain.com/"/>
-  <updated>2025-03-31T13:43:17.525Z</updated>
+  <updated>2025-04-01T00:37:55.599Z</updated>
   <id>https://yourdomain.com/</id>
   
   <author>
-    <name>Your Name</name>
+    <name>SUN</name>
     
   </author>
   
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Blog規劃</title>
-    <link href="https://yourdomain.com/2025/03/31/BLOG%E8%A6%8F%E5%8A%83/"/>
-    <id>https://yourdomain.com/2025/03/31/BLOG%E8%A6%8F%E5%8A%83/</id>
+    <link href="https://yourdomain.com/sun&#39;s_blog/BLOG%E8%A6%8F%E5%8A%83/"/>
+    <id>https://yourdomain.com/sun&#39;s_blog/BLOG%E8%A6%8F%E5%8A%83/</id>
     <published>2025-03-31T01:39:16.000Z</published>
-    <updated>2025-03-31T13:43:17.525Z</updated>
+    <updated>2025-04-01T00:37:55.599Z</updated>
     
     <content type="html"><![CDATA[</p>第一次架設網站<br>藉由這裡來練練自己的文筆與敘述<br>目前主要會分成六大類<br>農業&科技&生活&股市&虛擬貨幣&遊戲<br>希望在我老了還能透過這些紀錄想起一些回憶<br>新手上路請見諒]]></content>
     
@@ -40,6 +40,8 @@
     
     
     <category term="規劃" scheme="https://yourdomain.com/categories/%E8%A6%8F%E5%8A%83/"/>
+    
+    <category term="網站" scheme="https://yourdomain.com/categories/%E8%A6%8F%E5%8A%83/%E7%B6%B2%E7%AB%99/"/>
     
     
     <category term="部落格風格" scheme="https://yourdomain.com/tags/%E9%83%A8%E8%90%BD%E6%A0%BC%E9%A2%A8%E6%A0%BC/"/>
